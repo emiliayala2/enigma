@@ -1,0 +1,37 @@
+body {
+    color: white;
+    background-color: #020202;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 80%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+ul {
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: #006494;
+    padding: 10px 16px;
+    border-radius: 8px;
+}
+
+span {
+    color: #525252;
+}
+
+img {
+    width: 300px;
+}
